@@ -17,4 +17,10 @@ It demonstrates how file systems manage:
 
 ## How to Run
 Open terminal/CMD in project folder and type:
+1. Open terminal/CMD in project folder
+2. Run the command:
+   python mini_fs.py
+3. Follow the on-screen instructions to create, write, read, or delete files
+
+
 
